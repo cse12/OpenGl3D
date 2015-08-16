@@ -20,7 +20,9 @@ import android.widget.Toast;
 public class JakariaActivity extends Activity {
     /**
      * Hold a reference to our GLSurfaceView
+     test
      */
+     
     private GLSurfaceView glSurfaceView;
     private boolean rendererSet = false;
 
